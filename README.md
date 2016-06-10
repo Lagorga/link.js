@@ -1,0 +1,2 @@
+# link.js
+Koneksi tautan
